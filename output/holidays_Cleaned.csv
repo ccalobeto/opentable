@@ -1,0 +1,943 @@
+holidayName,typeOfHoliday,details,date,weekOfYear,locality
+New Year's Day,Federal Holiday,All States,2020-01-01,1,United States
+Epiphany,Christian,All States,2020-01-06,2,United States
+Orthodox Christmas Day,Orthodox,All States,2020-01-07,2,United States
+Stephen Foster Memorial Day,Observance,All States,2020-01-13,3,United States
+Orthodox New Year,Orthodox,All States,2020-01-14,3,United States
+Lee-Jackson Day,State holiday,Virginia,2020-01-17,3,Virginia
+Robert E. Lee's Birthday,State holiday,Florida,2020-01-19,3,Florida
+Confederate Heroes' Day,State holiday,Texas,2020-01-19,3,Texas
+Martin Luther King Jr. Day,Federal Holiday,All States,2020-01-20,4,United States
+Robert E. Lee's Birthday,State holiday,Alabama,2020-01-20,4,Alabama
+Robert E. Lee's Birthday,State holiday,Mississippi,2020-01-20,4,United States
+Idaho Human Rights Day,State holiday,Idaho,2020-01-20,4,United States
+Civil Rights Day,State holiday,"Arizona, New Hampshire",2020-01-20,4,Arizona
+Civil Rights Day,State holiday,"Arizona, New Hampshire",2020-01-20,4,United States
+Chinese New Year,Observance,All States,2020-01-25,4,United States
+Kansas Day,Observance,All States,2020-01-29,5,United States
+National Freedom Day,Observance,All States,2020-02-01,5,United States
+First Day of Black History Month,Annual monthly observance,All States,2020-02-01,5,United States
+Groundhog Day,Observance,All States,2020-02-02,5,United States
+Super Bowl,Sporting event,All States,2020-02-02,5,United States
+Rosa Parks Day,Local observance,"California, Missouri",2020-02-04,6,California
+Rosa Parks Day,Local observance,"California, Missouri",2020-02-04,6,Missouri
+National Wear Red Day,Observance,All States,2020-02-07,6,United States
+Tu Bishvat/Tu B'Shevat,Jewish holiday,All States,2020-02-10,7,United States
+Lincoln's Birthday,State holiday,"CT, IL, MO, NY",2020-02-12,7,Connecticut
+Lincoln's Birthday,State holiday,"CT, IL, MO, NY",2020-02-12,7,Illinois
+Lincoln's Birthday,State holiday,"CT, IL, MO, NY",2020-02-12,7,Missouri
+Lincoln's Birthday,State holiday,"CT, IL, MO, NY",2020-02-12,7,New York
+Lincoln's Birthday,Local observance,Florida,2020-02-12,7,Florida
+Valentine's Day,Observance,All States,2020-02-14,7,United States
+Statehood Day,Local observance,Arizona,2020-02-14,7,Arizona
+Susan B. Anthony's Birthday,Local observance,"CA, FL, NY, WI",2020-02-15,7,California
+Susan B. Anthony's Birthday,Local observance,"CA, FL, NY, WI",2020-02-15,7,Florida
+Susan B. Anthony's Birthday,Local observance,"CA, FL, NY, WI",2020-02-15,7,New York
+Susan B. Anthony's Birthday,Local observance,"CA, FL, NY, WI",2020-02-15,7,Wisconsin
+Elizabeth Peratrovich Day,Local observance,Alaska,2020-02-16,7,United States
+Presidents' Day,Federal Holiday,All States,2020-02-17,8,United States
+Daisy Gatson Bates Day,State holiday,Arkansas,2020-02-17,8,United States
+Maha Shivaratri,Hindu Holiday,All States,2020-02-21,8,United States
+Shrove Tuesday/Mardi Gras,State holiday,"AL**, FL*, LA, MS*",2020-02-25,9,Alabama
+Shrove Tuesday/Mardi Gras,State holiday,"AL**, FL*, LA, MS*",2020-02-25,9,Florida
+Shrove Tuesday/Mardi Gras,State holiday,"AL**, FL*, LA, MS*",2020-02-25,9,Louisiana
+Shrove Tuesday/Mardi Gras,State holiday,"AL**, FL*, LA, MS*",2020-02-25,9,Mississippi
+Shrove Tuesday/Mardi Gras,"Observance, Christian",All States,2020-02-25,9,United States
+Ash Wednesday,Christian,All States,2020-02-26,9,United States
+Linus Pauling Day,Local observance,Oregon,2020-02-28,9,Oregon
+St. David's Day,"Observance, Christian",All States,2020-03-01,9,United States
+First Day of Women's History Month,Annual monthly observance,All States,2020-03-01,9,United States
+Texas Independence Day,State holiday,Texas,2020-03-02,10,Texas
+Casimir Pulaski Day,Local observance,Illinois*,2020-03-02,10,Illinois
+Read Across America Day,Observance,All States,2020-03-02,10,United States
+Super Tuesday,Observance,14 states,2020-03-03,10,United States
+Town Meeting Day,State holiday,Vermont,2020-03-03,10,United States
+Employee Appreciation Day,Observance,All States,2020-03-06,10,United States
+Daylight Saving Time starts,Clock change/Daylight Saving Time,All States,2020-03-08,10,United States
+Holi,Hindu Holiday,All States,2020-03-09,11,United States
+Purim,Jewish holiday,All States,2020-03-10,11,United States
+St. Patrick's Day,"Observance, Christian",All States,2020-03-17,12,United States
+Evacuation Day,State holiday,Massachusetts**,2020-03-17,12,Massachusetts
+First Day of Stay at Home Order,COVID-19 Lockdown,California,2020-03-19,12,California
+March Equinox,Season,All States,2020-03-19,12,United States
+First Day of Stay at Home Directive,COVID-19 Lockdown,Nevada,2020-03-20,12,Nevada
+First Day of Stay at Home Order,COVID-19 Lockdown,"Illinois, New Jersey",2020-03-21,12,Illinois
+First Day of Stay at Home Order,COVID-19 Lockdown,"Illinois, New Jersey",2020-03-21,12,New Jersey
+Isra and Mi'raj,Muslim,All States,2020-03-22,12,United States
+First Day of Stay at Home Order,COVID-19 Lockdown,"Louisiana, New York",2020-03-22,12,Louisiana
+First Day of Stay at Home Order,COVID-19 Lockdown,"Louisiana, New York",2020-03-22,12,New York
+"First Day of Stay Safe, Stay Home Order",COVID-19 Lockdown,Connecticut,2020-03-23,13,Connecticut
+First Day of Stay at Home Order,COVID-19 Lockdown,"HI, MD, OH, OR",2020-03-23,13,Hawaii
+First Day of Stay at Home Order,COVID-19 Lockdown,"HI, MD, OH, OR",2020-03-23,13,Maryland
+First Day of Stay at Home Order,COVID-19 Lockdown,"HI, MD, OH, OR",2020-03-23,13,Ohio
+First Day of Stay at Home Order,COVID-19 Lockdown,"HI, MD, OH, OR",2020-03-23,13,Oregon
+First Day of Stay at Home Advisory,COVID-19 Lockdown,Massachusetts,2020-03-23,13,Massachusetts
+First Day of Stay at Home Instructions,COVID-19 Lockdown,New Mexico,2020-03-23,13,New Mexico
+First Day of Stay at Home Order,COVID-19 Lockdown,"DE, MI, WA, WV",2020-03-24,13,Delaware
+First Day of Stay at Home Order,COVID-19 Lockdown,"DE, MI, WA, WV",2020-03-24,13,Michigan
+First Day of Stay at Home Order,COVID-19 Lockdown,"DE, MI, WA, WV",2020-03-24,13,Washington
+First Day of Stay at Home Order,COVID-19 Lockdown,"DE, MI, WA, WV",2020-03-24,13,West Virginia
+First Day of Stay at Home Order,COVID-19 Lockdown,"ID, IN, WI",2020-03-25,13,Idaho
+First Day of Stay at Home Order,COVID-19 Lockdown,"ID, IN, WI",2020-03-25,13,Indiana
+First Day of Stay at Home Order,COVID-19 Lockdown,"ID, IN, WI",2020-03-25,13,Wisconsin
+"First Day of Stay Home, Stay Safe Order",COVID-19 Lockdown,Vermont,2020-03-25,13,United States
+Maryland Day,Local observance,Maryland,2020-03-25,13,Maryland
+First Day of Stay at Home Order,COVID-19 Lockdown,Colorado,2020-03-26,13,Colorado
+First Day of Healthy at Home Order,COVID-19 Lockdown,Kentucky,2020-03-26,13,Kentucky
+Prince Jonah Kuhio Kalanianaole Day,State holiday,Hawaii,2020-03-26,13,Hawaii
+First Day of Stay at Home Order,COVID-19 Lockdown,"Minnesota, New Hampshire",2020-03-27,13,Minnesota
+First Day of Stay at Home Order,COVID-19 Lockdown,"Minnesota, New Hampshire",2020-03-27,13,United States
+First Day of Stay at Home Directive,COVID-19 Lockdown,Utah,2020-03-27,13,Utah
+First Day of Stay at Home Order,COVID-19 Lockdown,"Alaska, Rhode Island",2020-03-28,13,United States
+First Day of Stay at Home Order,COVID-19 Lockdown,"Alaska, Rhode Island",2020-03-28,13,Rhode Island
+First Day of Stay at Home Directive,COVID-19 Lockdown,Montana,2020-03-28,13,United States
+First Day of Stay at Home Order,COVID-19 Lockdown,Kansas,2020-03-29,13,Kansas
+National Vietnam War Veterans Day,Observance,All States,2020-03-29,13,United States
+First Day of Stay at Home Order,COVID-19 Lockdown,"North Carolina, Virginia",2020-03-30,14,North Carolina
+First Day of Stay at Home Order,COVID-19 Lockdown,"North Carolina, Virginia",2020-03-30,14,Virginia
+Seward's Day,State holiday,Alaska,2020-03-30,14,United States
+First Day of Stay at Home Order,COVID-19 Lockdown,Arizona,2020-03-31,14,Arizona
+First Day of Coronavirus Restrictions,COVID-19 Lockdown,Texas,2020-03-31,14,Texas
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Arizona
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,California
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Colorado
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Michigan
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,New Mexico
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Nevada
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Texas
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Utah
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Washington
+César Chávez Day,State holiday,"AZ**, CA**, CO***, MI**, NM**, NV**, TX***, UT**, WA**, WI**",2020-03-31,14,Wisconsin
+First Day of Stay at Home Order,COVID-19 Lockdown,DC,2020-04-01,14,District Of Columbia
+First Day of Stay at Home Order,COVID-19 Lockdown,"ME, OK, PA",2020-04-02,14,Maine
+First Day of Stay at Home Order,COVID-19 Lockdown,"ME, OK, PA",2020-04-02,14,Oklahoma
+First Day of Stay at Home Order,COVID-19 Lockdown,"ME, OK, PA",2020-04-02,14,Pennsylvania
+First Day of Safer at Home Order,COVID-19 Lockdown,Tennessee,2020-04-02,14,Tennessee
+Pascua Florida Day,Local observance,Florida,2020-04-02,14,Florida
+First Day of Stay at Home Order,COVID-19 Lockdown,"FL, GA, MS",2020-04-03,14,Florida
+First Day of Stay at Home Order,COVID-19 Lockdown,"FL, GA, MS",2020-04-03,14,Georgia
+First Day of Stay at Home Order,COVID-19 Lockdown,"FL, GA, MS",2020-04-03,14,Mississippi
+First Day of Stay at Home Order,COVID-19 Lockdown,Alabama,2020-04-04,14,Alabama
+Palm Sunday,Christian,All States,2020-04-05,14,United States
+First Day of Stay at Home Order,COVID-19 Lockdown,Missouri,2020-04-06,15,Missouri
+National Tartan Day,Observance,All States,2020-04-06,15,United States
+First Day of Stay at Home Order,COVID-19 Lockdown,South Carolina,2020-04-07,15,South Carolina
+Maundy Thursday,Christian,All States,2020-04-09,15,United States
+Passover (first day),Jewish holiday,All States,2020-04-09,15,United States
+National Former Prisoner of War Recognition Day,Observance,All States,2020-04-09,15,United States
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Connecticut
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Delaware
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Hawaii
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Indiana
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Kentucky
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Louisiana
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,North Carolina
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,North Dakota
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,New Jersey
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Tennessee
+Good Friday,State holiday,"CT, DE, HI, IN, KY, LA, NC, ND, NJ, TN, TX***",2020-04-10,15,Texas
+Holy Saturday,Christian,All States,2020-04-11,15,United States
+Easter Sunday,"Observance, Christian",All States,2020-04-12,15,United States
+Easter Monday,"Observance, Christian",All States,2020-04-13,16,United States
+Thomas Jefferson's Birthday,Observance,All States,2020-04-13,16,United States
+Father Damien Day,Local observance,Hawaii,2020-04-15,16,Hawaii
+Last Day of Passover,Jewish holiday,All States,2020-04-16,16,United States
+Emancipation Day,State holiday,DC,2020-04-16,16,District Of Columbia
+Orthodox Good Friday,Orthodox,All States,2020-04-17,16,United States
+Orthodox Holy Saturday,Orthodox,All States,2020-04-18,16,United States
+Orthodox Easter,Orthodox,All States,2020-04-19,16,United States
+Orthodox Easter Monday,Orthodox,All States,2020-04-20,17,United States
+Patriot's Day,State holiday,"Maine, Massachusetts",2020-04-20,17,United States
+Patriot's Day,State holiday,"Maine, Massachusetts",2020-04-20,17,Massachusetts
+Yom HaShoah,Jewish commemoration,All States,2020-04-21,17,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Alaska,2020-04-21,17,United States
+San Jacinto Day,State holiday,Texas,2020-04-21,17,Texas
+National Library Workers' Day,Observance,All States,2020-04-21,17,United States
+Oklahoma Day,Local observance,Oklahoma,2020-04-22,17,Oklahoma
+Administrative Professionals Day,Observance,All States,2020-04-22,17,United States
+Take our Daughters and Sons to Work Day,Observance,All States,2020-04-23,17,United States
+Ramadan Starts,Muslim,All States,2020-04-24,17,United States
+Last Day of Stay at Home Directive,COVID-19 Lockdown,Montana,2020-04-24,17,United States
+Arbor Day,State holiday,Nebraska,2020-04-24,17,Nebraska
+Last Day of Stay at Home Order,COVID-19 Lockdown,Colorado,2020-04-26,17,Colorado
+Confederate Heroes' Day,Local observance,Florida,2020-04-26,17,Florida
+Confederate Memorial Day,State holiday,Mississippi,2020-04-27,18,United States
+Confederate Memorial Day,State holiday,Alabama,2020-04-27,18,Alabama
+Confederate Heroes' Day observed,Local observance,Florida,2020-04-27,18,Florida
+State Holiday,State holiday,Georgia,2020-04-27,18,Georgia
+Yom Ha'atzmaut,Jewish holiday,All States,2020-04-29,18,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Alabama,2020-04-30,18,Alabama
+Last Day of Stay at Home Order,COVID-19 Lockdown,Georgia,2020-04-30,18,Georgia
+Last Day of Stay at Home Order,COVID-19 Lockdown,Idaho,2020-04-30,18,United States
+Last Day of Safer at Home Order,COVID-19 Lockdown,Oklahoma,2020-04-30,18,Oklahoma
+Last Day of Safer at Home Order,COVID-19 Lockdown,Tennessee,2020-04-30,18,Tennessee
+Last Day of Coronavirus Restrictions,COVID-19 Lockdown,Texas,2020-04-30,18,Texas
+Last Day of Stay at Home Directive,COVID-19 Lockdown,Utah,2020-05-01,18,Utah
+Kentucky Oaks,Sporting event,All States,2020-05-01,18,United States
+Law Day,Observance,All States,2020-05-01,18,United States
+Loyalty Day,Observance,All States,2020-05-01,18,United States
+Lei Day,Local observance,Hawaii,2020-05-01,18,Hawaii
+Kentucky Derby,Sporting event,All States,2020-05-02,18,United States
+National Explosive Ordnance Disposal (EOD) Day,Observance,All States,2020-05-02,18,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Florida,2020-05-03,18,Florida
+Last Day of Stay at Home Order,COVID-19 Lockdown,Indiana,2020-05-03,18,Indiana
+Last Day of Stay at Home Order,COVID-19 Lockdown,Kansas,2020-05-03,18,Kansas
+Last Day of Stay at Home Order,COVID-19 Lockdown,Missouri,2020-05-03,18,Missouri
+Last Day of Stay at Home Order,COVID-19 Lockdown,South Carolina,2020-05-04,19,South Carolina
+Kent State Shootings Remembrance,Local observance,Ohio,2020-05-04,19,Ohio
+Rhode Island Independence Day,Local observance,Rhode Island,2020-05-04,19,Rhode Island
+Cinco de Mayo,Observance,All States,2020-05-05,19,United States
+National Nurses Day,Observance,All States,2020-05-06,19,United States
+National Day of Prayer,Observance,All States,2020-05-07,19,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Rhode Island,2020-05-08,19,Rhode Island
+Truman Day,State holiday,Missouri,2020-05-08,19,Missouri
+Victory in Europe Day,Observance,All States,2020-05-08,19,United States
+Native American Day,State Observation,Wyoming,2020-05-08,19,United States
+Military Spouse Appreciation Day,Observance,All States,2020-05-08,19,United States
+Mother's Day,Observance,All States,2020-05-10,19,United States
+Confederate Memorial Day,State holiday,South Carolina,2020-05-10,19,South Carolina
+Confederate Memorial Day,Local observance,North Carolina,2020-05-10,19,North Carolina
+Confederate Memorial Day observed,State holiday,South Carolina,2020-05-11,20,South Carolina
+Lag BaOmer,Jewish holiday,All States,2020-05-12,20,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Wisconsin,2020-05-13,20,Wisconsin
+Last Day of Stay at Home Order,COVID-19 Lockdown,Arizona,2020-05-15,20,Arizona
+Last Day of Stay at Home Order,COVID-19 Lockdown,Louisiana,2020-05-15,20,Louisiana
+Last Day of Stay at Home Directive,COVID-19 Lockdown,Nevada,2020-05-15,20,Nevada
+"Last Day of Stay Home, Stay Safe Order",COVID-19 Lockdown,Vermont,2020-05-15,20,United States
+Peace Officers Memorial Day,Observance,All States,2020-05-15,20,United States
+National Defense Transportation Day,Observance,All States,2020-05-15,20,United States
+Armed Forces Day,Observance,All States,2020-05-16,20,United States
+Preakness Stakes,Sporting event,All States,2020-05-16,20,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Minnesota,2020-05-17,20,Minnesota
+Last Day of Stay at Home Advisory,COVID-19 Lockdown,Massachusetts,2020-05-18,21,Massachusetts
+Lailat al-Qadr,Muslim,All States,2020-05-19,21,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Ohio,2020-05-19,21,Ohio
+"Last Day of Stay Safe, Stay Home Order",COVID-19 Lockdown,Connecticut,2020-05-20,21,Connecticut
+Emergency Medical Services for Children Day,Observance,All States,2020-05-20,21,United States
+Ascension Day,Christian,All States,2020-05-21,21,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,North Carolina,2020-05-22,21,North Carolina
+National Maritime Day,Observance,All States,2020-05-22,21,United States
+Harvey Milk Day,Local observance,California,2020-05-22,21,California
+Eid al-Fitr,Muslim,All States,2020-05-24,21,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Mississippi,2020-05-25,22,United States
+Memorial Day,Federal Holiday,All States,2020-05-25,22,United States
+Jefferson Davis' Birthday,Local observance,Mississippi,2020-05-25,22,United States
+National Missing Children's Day,Observance,All States,2020-05-25,22,United States
+Shavuot,Jewish holiday,All States,2020-05-29,22,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,DC,2020-05-29,22,District Of Columbia
+Last Day of Stay at Home Order,COVID-19 Lockdown,Illinois,2020-05-30,22,Illinois
+Pentecost,Christian,All States,2020-05-31,22,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Delaware,2020-05-31,22,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Hawaii,2020-05-31,22,Hawaii
+Last Day of Stay at Home Order,COVID-19 Lockdown,Washington,2020-05-31,22,Washington
+Whit Monday,Christian,All States,2020-06-01,23,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Michigan,2020-06-01,23,Michigan
+Statehood Day,Local observance,"Kentucky, Tennessee",2020-06-01,23,Kentucky
+Statehood Day,Local observance,"Kentucky, Tennessee",2020-06-01,23,Tennessee
+Jefferson Davis' Birthday,State holiday,Alabama,2020-06-01,23,Alabama
+Native American Day,State Observation,Arizona,2020-06-02,23,Arizona
+Jefferson Davis' Birthday,Local observance,Florida,2020-06-03,23,Florida
+Last Day of Stay at Home Order,COVID-19 Lockdown,Pennsylvania,2020-06-04,23,Pennsylvania
+D-Day,Observance,All States,2020-06-06,23,United States
+Belmont Stakes,Sporting event,All States,2020-06-06,23,United States
+Trinity Sunday,Christian,All States,2020-06-07,23,United States
+Primary Election Day,State holiday,West Virginia,2020-06-09,24,United States
+Last Day of Stay at Home Order,COVID-19 Lockdown,Virginia,2020-06-10,24,Virginia
+Corpus Christi,Christian,All States,2020-06-11,24,United States
+Kamehameha Day,State holiday,Hawaii,2020-06-11,24,Hawaii
+Last Day of Stay at Home Order,COVID-19 Lockdown,New York,2020-06-13,24,New York
+Army Birthday,Observance,All States,2020-06-14,24,United States
+Flag Day,Observance,All States,2020-06-14,24,United States
+Bunker Hill Day,Local observance,Massachusetts,2020-06-14,24,Massachusetts
+Last Day of Stay at Home Order,COVID-19 Lockdown,New Hampshire,2020-06-15,25,United States
+Juneteenth,Observance,All States,2020-06-19,25,United States
+Emancipation Day,State holiday,Texas,2020-06-19,25,Texas
+June Solstice,Season,All States,2020-06-20,25,United States
+West Virginia Day,State holiday,West Virginia,2020-06-20,25,United States
+American Eagle Day,Observance,All States,2020-06-20,25,United States
+Father's Day,Observance,All States,2020-06-21,25,United States
+Independence Day observed,Federal Holiday,All States,2020-07-03,27,United States
+Independence Day,Federal Holiday,All States,2020-07-04,27,United States
+Nathan Bedford Forrest Day,Local observance,Tennessee,2020-07-13,29,Tennessee
+Bastille Day,Observance,All States,2020-07-14,29,United States
+Tax Day,Observance,All States,2020-07-15,29,United States
+Rural Transit Day,Observance,All States,2020-07-16,29,United States
+Pioneer Day,State holiday,Utah,2020-07-24,30,Utah
+Parents' Day,Observance,All States,2020-07-26,30,United States
+National Korean War Veterans Armistice Day,Observance,All States,2020-07-27,31,United States
+Tisha B'Av,Jewish holiday,All States,2020-07-30,31,United States
+Eid al-Adha,Muslim,All States,2020-07-31,31,United States
+Colorado Day,Local observance,Colorado,2020-08-01,31,Colorado
+Raksha Bandhan,Hindu Holiday,All States,2020-08-03,32,United States
+Coast Guard Birthday,Observance,All States,2020-08-04,32,United States
+Purple Heart Day,Observance,All States,2020-08-07,32,United States
+Janmashtami,Hindu Holiday,All States,2020-08-10,33,United States
+Victory Day,State holiday,Rhode Island,2020-08-10,33,Rhode Island
+Assumption of Mary,Christian,All States,2020-08-15,33,United States
+Bennington Battle Day,State holiday,Vermont,2020-08-16,33,United States
+Bennington Battle Day observed,State holiday,Vermont,2020-08-17,34,United States
+National Aviation Day,Observance,All States,2020-08-19,34,United States
+Muharram,Muslim,All States,2020-08-20,34,United States
+Ganesh Chaturthi,Hindu Holiday,All States,2020-08-21,34,United States
+Hawaii Statehood Day,State holiday,Hawaii,2020-08-21,34,Hawaii
+Senior Citizens Day,Observance,All States,2020-08-21,34,United States
+Women's Equality Day,Observance,All States,2020-08-26,35,United States
+Lyndon Baines Johnson Day,State holiday,Texas,2020-08-27,35,Texas
+Last Day of Stay at Home Instructions,COVID-19 Lockdown,New Mexico,2020-08-28,35,New Mexico
+Labor Day,Federal Holiday,All States,2020-09-07,37,United States
+California Admission Day,Local observance,California,2020-09-09,37,California
+Patriot Day,Observance,All States,2020-09-11,37,United States
+Carl Garner Federal Lands Cleanup Day,Observance,All States,2020-09-12,37,United States
+National Grandparents Day,Observance,All States,2020-09-13,37,United States
+Constitution Day and Citizenship Day,Observance,All States,2020-09-17,38,United States
+Air Force Birthday,Observance,All States,2020-09-18,38,United States
+National POW/MIA Recognition Day,Observance,All States,2020-09-18,38,United States
+Rosh Hashana,State holiday,Texas***,2020-09-19,38,Texas
+Rosh Hashana,Jewish holiday,All States,2020-09-19,38,United States
+National CleanUp Day,Observance,All States,2020-09-19,38,United States
+September Equinox,Season,All States,2020-09-22,39,United States
+Emancipation Day,Local observance,Ohio,2020-09-22,39,Ohio
+Native American Day,State Observation,"California, Nevada",2020-09-25,39,California
+Native American Day,State Observation,"California, Nevada",2020-09-25,39,Nevada
+American Indian Heritage Day,State Observation,"Montana, Texas",2020-09-25,39,United States
+American Indian Heritage Day,State Observation,"Montana, Texas",2020-09-25,39,Texas
+Michigan Indian Day,State Observation,Michigan,2020-09-25,39,Michigan
+Gold Star Mother's Day,Observance,All States,2020-09-27,39,United States
+American Indian Day,State Observation,Tennessee,2020-09-28,40,Tennessee
+Yom Kippur,Jewish holiday,All States,2020-09-28,40,United States
+Yom Kippur,State holiday,Texas***,2020-09-28,40,Texas
+First Day of Sukkot,Jewish holiday,All States,2020-10-03,40,United States
+Feast of St Francis of Assisi,Christian,All States,2020-10-04,40,United States
+Frances Xavier Cabrini,State holiday,Colorado,2020-10-05,41,Colorado
+Child Health Day,Observance,All States,2020-10-05,41,United States
+Last Day of Sukkot,Jewish holiday,All States,2020-10-09,41,United States
+Leif Erikson Day,Observance,All States,2020-10-09,41,United States
+Shmini Atzeret,Jewish holiday,All States,2020-10-10,41,United States
+Chicago Marathon,Canceled,All States,2020-10-10,41,United States
+Simchat Torah,Jewish holiday,All States,2020-10-11,41,United States
+Columbus Day,State Legal Holiday,Tennessee,2020-10-12,42,Tennessee
+Columbus Day,State holiday,22 states,2020-10-12,42,United States
+Columbus Day,Federal Holiday,All States,2020-10-12,42,United States
+Fraternal Day,State holiday,Alabama,2020-10-12,42,Alabama
+Yorktown Victory Day,State holiday,Virginia,2020-10-12,42,Virginia
+Discoverers’ Day,State Observation,Hawaii,2020-10-12,42,Hawaii
+Native American Day,State holiday,South Dakota,2020-10-12,42,United States
+Native American Day,State Observation,Oklahoma,2020-10-12,42,Oklahoma
+Indigenous People's Day,State holiday,"DC, ME, NM",2020-10-12,42,District Of Columbia
+Indigenous People's Day,State holiday,"DC, ME, NM",2020-10-12,42,Maine
+Indigenous People's Day,State holiday,"DC, ME, NM",2020-10-12,42,New Mexico
+Indigenous People's Day,State Observation,28 states,2020-10-12,42,United States
+Indigenous People's Day (Tentative Date),State Observation,"CA, ID, LA, MI, MN, OR",2020-10-12,42,California
+Indigenous People's Day (Tentative Date),State Observation,"CA, ID, LA, MI, MN, OR",2020-10-12,42,Idaho
+Indigenous People's Day (Tentative Date),State Observation,"CA, ID, LA, MI, MN, OR",2020-10-12,42,Louisiana
+Indigenous People's Day (Tentative Date),State Observation,"CA, ID, LA, MI, MN, OR",2020-10-12,42,Michigan
+Indigenous People's Day (Tentative Date),State Observation,"CA, ID, LA, MI, MN, OR",2020-10-12,42,Minnesota
+Indigenous People's Day (Tentative Date),State Observation,"CA, ID, LA, MI, MN, OR",2020-10-12,42,Oregon
+American Indian Heritage Day,State holiday,Alabama,2020-10-12,42,Alabama
+Navy Birthday,Observance,All States,2020-10-13,42,United States
+White Cane Safety Day,Observance,All States,2020-10-15,42,United States
+Boss's Day,Observance,All States,2020-10-16,42,United States
+Navratri,Hindu Holiday,All States,2020-10-17,42,United States
+Sweetest Day,Observance,13 states,2020-10-17,42,United States
+Alaska Day,State holiday,Alaska,2020-10-18,42,United States
+Alaska Day observed,State holiday,Alaska,2020-10-19,43,United States
+Dussehra,Hindu Holiday,All States,2020-10-25,43,United States
+The Prophet's Birthday,Muslim,All States,2020-10-29,44,United States
+Nevada Day,State holiday,Nevada,2020-10-30,44,Nevada
+Halloween,Observance,All States,2020-10-31,44,United States
+All Saints' Day,Christian,All States,2020-11-01,44,United States
+Daylight Saving Time ends,Clock change/Daylight Saving Time,All States,2020-11-01,44,United States
+All Souls' Day,Christian,All States,2020-11-02,45,United States
+Election Day (General Election),Observance,All States,2020-11-03,45,United States
+Election Day,State holiday,12 states,2020-11-03,45,United States
+Return Day,State holiday,Delaware**,2020-11-05,45,United States
+Marine Corps Birthday,Observance,All States,2020-11-10,46,United States
+Veterans Day,Federal Holiday,All States,2020-11-11,46,United States
+Diwali/Deepavali,"Observance, Hinduism",All States,2020-11-14,46,United States
+Thanksgiving Day,Federal Holiday,All States,2020-11-26,48,United States
+State Holiday,State holiday,Georgia,2020-11-27,48,Georgia
+Presidents' Day,State holiday,New Mexico,2020-11-27,48,New Mexico
+Lincoln's Birthday/Lincoln's Day,State holiday,Indiana,2020-11-27,48,Indiana
+Day After Thanksgiving,State holiday,20 states,2020-11-27,48,United States
+Family Day,State holiday,Nevada,2020-11-27,48,Nevada
+Acadian Day,State holiday,Louisiana,2020-11-27,48,Louisiana
+Black Friday,Observance,All States,2020-11-27,48,United States
+American Indian Heritage Day,State holiday,Maryland,2020-11-27,48,Maryland
+Native American Heritage Day,State holiday,Washington,2020-11-27,48,Washington
+Native American Heritage Day,Observance,All States,2020-11-27,48,United States
+First Sunday of Advent,Christian,All States,2020-11-29,48,United States
+Cyber Monday,Observance,All States,2020-11-30,49,United States
+Rosa Parks Day,Local observance,"Ohio, Oregon",2020-12-01,49,Ohio
+Rosa Parks Day,Local observance,"Ohio, Oregon",2020-12-01,49,Oregon
+Rosa Parks Day,State Observation,Alabama,2020-12-01,49,Alabama
+St Nicholas Day,Observance,All States,2020-12-06,49,United States
+Pearl Harbor Remembrance Day,Observance,All States,2020-12-07,50,United States
+Feast of the Immaculate Conception,Christian,All States,2020-12-08,50,United States
+Chanukah/Hanukkah (first day),Jewish holiday,All States,2020-12-11,50,United States
+Feast of Our Lady of Guadalupe,Christian,All States,2020-12-12,50,United States
+National Guard Birthday,Observance,All States,2020-12-13,50,United States
+Bill of Rights Day,Observance,All States,2020-12-15,51,United States
+Pan American Aviation Day,Observance,All States,2020-12-17,51,United States
+Wright Brothers Day,Observance,All States,2020-12-17,51,United States
+Last Day of Chanukah,Jewish holiday,All States,2020-12-18,51,United States
+December Solstice,Season,All States,2020-12-21,52,United States
+Christmas Eve,"Observance, Christian",All States,2020-12-24,52,United States
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,Kansas
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,Kentucky
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,Michigan
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,North Carolina
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,North Dakota
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,Oklahoma
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,South Carolina
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,Texas
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,Virginia
+Christmas Eve,State holiday,"KS**, KY, MI, NC, ND, OK, SC, TX, VA**, WI",2020-12-24,52,Wisconsin
+Christmas Day,Federal Holiday,All States,2020-12-25,52,United States
+Kwanzaa (first day),Observance,All States,2020-12-26,52,United States
+Day After Christmas Day,State holiday,"KS, NC, SC, TX",2020-12-26,52,Kansas
+Day After Christmas Day,State holiday,"KS, NC, SC, TX",2020-12-26,52,North Carolina
+Day After Christmas Day,State holiday,"KS, NC, SC, TX",2020-12-26,52,South Carolina
+Day After Christmas Day,State holiday,"KS, NC, SC, TX",2020-12-26,52,Texas
+New Year's Eve,State holiday,"LA, MI, WI",2020-12-31,53,Louisiana
+New Year's Eve,State holiday,"LA, MI, WI",2020-12-31,53,Michigan
+New Year's Eve,State holiday,"LA, MI, WI",2020-12-31,53,Wisconsin
+New Year's Eve,Observance,All States,2020-12-31,53,United States
+New Year's Day,National holiday,All States,2020-01-01,1,Canada
+Day After New Year’s Day,Local holiday,Quebec,2020-01-02,1,Quebec
+Epiphany,"Observance, Christian",All States,2020-01-06,2,Canada
+Orthodox Christmas Day,Orthodox,All States,2020-01-07,2,Canada
+Orthodox New Year,Orthodox,All States,2020-01-14,3,Canada
+Chinese New Year,Observance,All States,2020-01-25,4,Canada
+Groundhog Day,Observance,All States,2020-02-02,5,Canada
+Tu B'Shevat (Arbor Day),Jewish holiday,All States,2020-02-10,7,Canada
+Valentine's Day,Observance,All States,2020-02-14,7,Canada
+National Flag of Canada Day,Observance,All States,2020-02-15,7,Canada
+Islander Day,Common local holiday,PE,2020-02-17,8,Prince Edward Island
+Family Day,Common local holiday,"AB, BC, NB, ON, SK",2020-02-17,8,Alberta
+Family Day,Common local holiday,"AB, BC, NB, ON, SK",2020-02-17,8,British Columbia
+Family Day,Common local holiday,"AB, BC, NB, ON, SK",2020-02-17,8,New Brunswick
+Family Day,Common local holiday,"AB, BC, NB, ON, SK",2020-02-17,8,Ontario
+Family Day,Common local holiday,"AB, BC, NB, ON, SK",2020-02-17,8,Saskatchewan
+Nova Scotia Heritage Day,Common local holiday,Nova Scotia,2020-02-17,8,Canada
+Louis Riel Day,Common local holiday,Manitoba,2020-02-17,8,Canada
+Yukon Heritage Day,Local de facto holiday,Yukon,2020-02-21,8,Canada
+Carnival / Shrove Tuesday,Christian,All States,2020-02-25,9,Canada
+Ash Wednesday,Christian,All States,2020-02-26,9,Canada
+St David's Day,Observance,All States,2020-03-01,9,Canada
+Daylight Saving Time starts,Clock change/Daylight Saving Time,All States,2020-03-08,10,Canada
+Commonwealth Day,Observance,All States,2020-03-09,11,Canada
+Purim,Jewish holiday,All States,2020-03-10,11,Canada
+St. Patrick's Day,Local holiday,NL,2020-03-16,12,Newfoundland
+St. Patrick's Day,Observance,All States,2020-03-17,12,Canada
+March Equinox,Season,All States,2020-03-19,12,Canada
+Isra and Mi'raj,Muslim,All States,2020-03-22,12,Canada
+Palm Sunday,Christian,All States,2020-04-05,14,Canada
+National Tartan Day,Observance,All States,2020-04-06,15,Canada
+Maundy Thursday,Christian,All States,2020-04-09,15,Canada
+First day of Passover,Jewish holiday,All States,2020-04-09,15,Canada
+Vimy Ridge Day,Observance,All States,2020-04-09,15,Canada
+Good Friday,"National holiday, Christian",All States,2020-04-10,15,Canada
+Holy Saturday,Christian,All States,2020-04-11,15,Canada
+Easter Sunday,Designated Retail Closing Day,Nova Scotia,2020-04-12,15,Canada
+Easter Sunday,"Observance, Christian",All States,2020-04-12,15,Canada
+Easter Monday,Local de facto holiday,Yukon,2020-04-13,16,Canada
+Easter Monday,National holiday,"NB, NT, NU, QC",2020-04-13,16,New Brunswick
+Easter Monday,National holiday,"NB, NT, NU, QC",2020-04-13,16,Northwest Territories
+Easter Monday,National holiday,"NB, NT, NU, QC",2020-04-13,16,Nunavut
+Easter Monday,National holiday,"NB, NT, NU, QC",2020-04-13,16,Quebec
+Easter Monday,Optional holiday,Alberta,2020-04-13,16,Alberta
+Last day of Passover,Jewish holiday,All States,2020-04-16,16,Canada
+Orthodox Good Friday,Orthodox,All States,2020-04-17,16,Canada
+Orthodox Holy Saturday,Orthodox,All States,2020-04-18,16,Canada
+Orthodox Easter,Orthodox,All States,2020-04-19,16,Canada
+Orthodox Easter Monday,Orthodox,All States,2020-04-20,17,Canada
+St. George's Day,Local holiday,NL,2020-04-20,17,Newfoundland
+Yom HaShoah,Jewish commemoration,All States,2020-04-21,17,Canada
+Ramadan Start,Muslim,All States,2020-04-24,17,Canada
+Yom HaAtzmaut,Jewish holiday,All States,2020-04-29,18,Canada
+Mother's Day,Observance,All States,2020-05-10,19,Canada
+Lag B'Omer,Jewish holiday,All States,2020-05-12,20,Canada
+Victoria Day,National holiday,All States,2020-05-18,21,Canada
+National Patriots' Day,Local holiday,Quebec,2020-05-18,21,Quebec
+Laylatul Qadr (Night of Power),Muslim,All States,2020-05-19,21,Canada
+Ascension Day,Christian,All States,2020-05-21,21,Canada
+Eid ul Fitr,Muslim,All States,2020-05-24,21,Canada
+Shavuot,Jewish holiday,All States,2020-05-29,22,Canada
+Pentecost,Christian,All States,2020-05-31,22,Canada
+Whit Monday,Christian,All States,2020-06-01,23,Canada
+Trinity Sunday,Christian,All States,2020-06-07,23,Canada
+Corpus Christi,Christian,All States,2020-06-11,24,Canada
+June Solstice,Season,All States,2020-06-20,25,Canada
+Father's Day,Observance,All States,2020-06-21,25,Canada
+National Indigenous Peoples Day,Observance,All States,2020-06-21,25,Canada
+National Indigenous Peoples Day,Local holiday,"NT, Yukon",2020-06-21,25,Northwest Territories
+National Indigenous Peoples Day,Local holiday,"NT, Yukon",2020-06-21,25,Canada
+June Holiday,Local holiday,NL,2020-06-22,26,Newfoundland
+St. Jean Baptiste Day,Local holiday,Quebec,2020-06-24,26,Quebec
+Canada Day,National holiday,All States,2020-07-01,27,Canada
+Memorial Day,Local holiday,NL,2020-07-01,27,Newfoundland
+Nunavut Day,Local holiday,Nunavut,2020-07-09,28,Canada
+Orangemen's Day,Local holiday,NL,2020-07-13,29,Newfoundland
+Tisha B'Av,Jewish holiday,All States,2020-07-30,31,Canada
+Eid ul Adha,Muslim,All States,2020-07-31,31,Canada
+Heritage Day,Optional holiday,Alberta,2020-08-03,32,Alberta
+Civic/Provincial Day,Local observance,Ontario,2020-08-03,32,Ontario
+Civic/Provincial Day,Common local holiday,"NT, Nunavut",2020-08-03,32,Northwest Territories
+Civic/Provincial Day,Common local holiday,"NT, Nunavut",2020-08-03,32,Canada
+Saskatchewan Day,Common local holiday,Saskatchewan,2020-08-03,32,Canada
+Terry Fox Day,Local observance,Manitoba,2020-08-03,32,Canada
+New Brunswick Day,Prescribed Day of Rest,New Brunswick,2020-08-03,32,Canada
+British Columbia Day,Common local holiday,BC,2020-08-03,32,British Columbia
+Natal Day,Common local holiday,Nova Scotia,2020-08-03,32,Canada
+The Royal St John's Regatta (Regatta Day),Local holiday,NL,2020-08-03,32,Newfoundland
+Assumption of Mary,Christian,All States,2020-08-15,33,Canada
+Discovery Day,Local holiday,Yukon,2020-08-17,34,Canada
+Muharram/Islamic New Year,Muslim,All States,2020-08-21,34,Canada
+Gold Cup Parade,Local holiday,PE,2020-08-21,34,Prince Edward Island
+Labour Day,National holiday,All States,2020-09-07,37,Canada
+Rosh Hashana,Jewish holiday,All States,2020-09-19,38,Canada
+September Equinox,Season,All States,2020-09-22,39,Canada
+Yom Kippur,Jewish holiday,All States,2020-09-28,40,Canada
+First day of Sukkot,Jewish holiday,All States,2020-10-03,40,Canada
+Feast of St Francis of Assisi,Christian,All States,2020-10-04,40,Canada
+Hoshana Rabbah,Jewish holiday,All States,2020-10-09,41,Canada
+Shemini Atzeret,Jewish holiday,All States,2020-10-10,41,Canada
+Simchat Torah,Jewish holiday,All States,2020-10-11,41,Canada
+Thanksgiving Day,National holiday,All States,2020-10-12,42,Canada
+Thanksgiving Day,Designated Retail Closing Day,Nova Scotia,2020-10-12,42,Canada
+Thanksgiving Day,Prescribed Day of Rest,New Brunswick,2020-10-12,42,Canada
+Healthcare Aide Day,Observance,"BC, Manitoba",2020-10-18,42,British Columbia
+Healthcare Aide Day,Observance,"BC, Manitoba",2020-10-18,42,Canada
+Milad un Nabi (Mawlid),Muslim,All States,2020-10-29,44,Canada
+Halloween,Observance,All States,2020-10-31,44,Canada
+Daylight Saving Time ends,Clock change/Daylight Saving Time,All States,2020-11-01,44,Canada
+All Saints' Day,"Observance, Christian",All States,2020-11-01,44,Canada
+All Souls' Day,"Observance, Christian",All States,2020-11-02,45,Canada
+Remembrance Day,National holiday,All States,2020-11-11,46,Canada
+Remembrance Day,Observance,"MB, NS, ON",2020-11-11,46,Manitoba
+Remembrance Day,Observance,"MB, NS, ON",2020-11-11,46,Nova Scotia
+Remembrance Day,Observance,"MB, NS, ON",2020-11-11,46,Ontario
+Diwali/Deepavali,Observance,All States,2020-11-14,46,Canada
+First Sunday of Advent,Observance,All States,2020-11-29,48,Canada
+Feast of the Immaculate Conception,Christian,All States,2020-12-08,50,Canada
+First Day of Hanukkah,Jewish holiday,All States,2020-12-11,50,Canada
+Anniversary of the Statute of Westminster,Observance,All States,2020-12-11,50,Canada
+Last day of Hanukkah,Jewish holiday,All States,2020-12-18,51,Canada
+December Solstice,Season,All States,2020-12-21,52,Canada
+Christmas Eve,Observance,All States,2020-12-24,52,Canada
+Christmas Day,"National holiday, Christian",All States,2020-12-25,52,Canada
+Boxing Day,National holiday,"NB, NL, NT, NU, ON",2020-12-26,52,New Brunswick
+Boxing Day,National holiday,"NB, NL, NT, NU, ON",2020-12-26,52,Newfoundland
+Boxing Day,National holiday,"NB, NL, NT, NU, ON",2020-12-26,52,Northwest Territories
+Boxing Day,National holiday,"NB, NL, NT, NU, ON",2020-12-26,52,Nunavut
+Boxing Day,National holiday,"NB, NL, NT, NU, ON",2020-12-26,52,Ontario
+Boxing Day,Local de facto holiday,Yukon,2020-12-26,52,Canada
+Boxing Day,Optional holiday,Alberta,2020-12-26,52,Alberta
+New Year's Eve,Observance,All States,2020-12-31,53,Canada
+New Year's Day,National Holiday,All States,2020-01-01,1,Australia
+Epiphany,Christian,All States,2020-01-06,2,Australia
+Orthodox Christmas Day,Orthodox,All States,2020-01-07,2,Australia
+Orthodox New Year,Orthodox,All States,2020-01-14,3,Australia
+Chinese New Year,Observance,All States,2020-01-25,4,Australia
+Australia Day,National Holiday,All States,2020-01-26,4,Australia
+Australia Day Observed,State Holiday,All States,2020-01-27,5,Australia
+Chinese New Year Observed,State Holiday,Christmas Island,2020-01-28,5,Australia
+Chinese New Year (Day 2),State Holiday,Christmas Island,2020-01-29,5,Australia
+Tu B'Shevat (Arbor Day),Jewish holiday,All States,2020-02-10,7,Australia
+Royal Hobart Regatta,State Holiday,Tasmania*,2020-02-10,7,Australia
+Valentine's Day,Observance,All States,2020-02-14,7,Australia
+Carnival / Shrove Tuesday,Christian,All States,2020-02-25,9,Australia
+Ash Wednesday,Christian,All States,2020-02-26,9,Australia
+Labour Day,State Holiday,WA,2020-03-02,10,Western Australia
+Foundation Day,State Holiday,Norfolk Island,2020-03-06,10,Australia
+Labour Day,State Holiday,Victoria,2020-03-09,11,Victoria
+Eight Hours Day,State Holiday,Tasmania,2020-03-09,11,Australia
+Adelaide Cup,State Holiday,SA,2020-03-09,11,South Australia
+Canberra Day,State Holiday,ACT,2020-03-09,11,Australian Capital Territory
+Purim,Jewish holiday,All States,2020-03-10,11,Australia
+Labour Day,State Holiday,Christmas Island,2020-03-16,12,Australia
+St Patrick's Day,Observance,All States,2020-03-17,12,Australia
+National Close the Gap Day,Observance,All States,2020-03-19,12,Australia
+March Equinox,Season,All States,2020-03-20,12,Australia
+Harmony Day,Observance,All States,2020-03-21,12,Australia
+Isra and Mi'raj,Muslim,All States,2020-03-22,12,Australia
+Daylight Saving Time ends,Clock change/Daylight Saving Time,All States,2020-04-05,14,Australia
+Palm Sunday,Christian,All States,2020-04-05,14,Australia
+Self Determination Day,State Holiday,Cocos and Keeling Islands,2020-04-06,15,Australia
+Maundy Thursday,Christian,All States,2020-04-09,15,Australia
+First day of Passover,Jewish holiday,All States,2020-04-09,15,Australia
+Good Friday,Restricted Trading Day,Victoria,2020-04-10,15,Victoria
+Good Friday,National Holiday,All States,2020-04-10,15,Australia
+Holy Saturday,State Holiday,"ACT, Heard and McDonald Islands, NSW, NT, Qld, SA, Vic",2020-04-11,15,Australian Capital Territory
+Holy Saturday,State Holiday,"ACT, Heard and McDonald Islands, NSW, NT, Qld, SA, Vic",2020-04-11,15,Australia
+Holy Saturday,State Holiday,"ACT, Heard and McDonald Islands, NSW, NT, Qld, SA, Vic",2020-04-11,15,New South Wales
+Holy Saturday,State Holiday,"ACT, Heard and McDonald Islands, NSW, NT, Qld, SA, Vic",2020-04-11,15,Northern Territory
+Holy Saturday,State Holiday,"ACT, Heard and McDonald Islands, NSW, NT, Qld, SA, Vic",2020-04-11,15,Queensland
+Holy Saturday,State Holiday,"ACT, Heard and McDonald Islands, NSW, NT, Qld, SA, Vic",2020-04-11,15,South Australia
+Holy Saturday,State Holiday,"ACT, Heard and McDonald Islands, NSW, NT, Qld, SA, Vic",2020-04-11,15,Victoria
+Easter Sunday,State Holiday,"ACT, NSW, Qld, Vic",2020-04-12,15,Australian Capital Territory
+Easter Sunday,State Holiday,"ACT, NSW, Qld, Vic",2020-04-12,15,New South Wales
+Easter Sunday,State Holiday,"ACT, NSW, Qld, Vic",2020-04-12,15,Queensland
+Easter Sunday,State Holiday,"ACT, NSW, Qld, Vic",2020-04-12,15,Victoria
+Easter Sunday,Observance,All States,2020-04-12,15,Australia
+Easter Monday,National Holiday,All States,2020-04-13,16,Australia
+Easter Tuesday,State Public Sector Holiday,Tasmania,2020-04-14,16,Australia
+Last day of Passover,Jewish holiday,All States,2020-04-16,16,Australia
+Orthodox Good Friday,Orthodox,All States,2020-04-17,16,Australia
+Orthodox Holy Saturday,Orthodox,All States,2020-04-18,16,Australia
+Orthodox Easter,Orthodox,All States,2020-04-19,16,Australia
+Orthodox Easter Monday,Orthodox,All States,2020-04-20,17,Australia
+Yom HaShoah,Jewish commemoration,All States,2020-04-21,17,Australia
+Ramadan Start,Muslim,All States,2020-04-24,17,Australia
+ANZAC Day,National Holiday,All States,2020-04-25,17,Australia
+ANZAC Day Observed,Half Day Restricted Trading Day,Victoria,2020-04-25,17,Victoria
+ANZAC Day Observed,State Holiday,"Christmas Island, Cocos and Keeling Islands, WA",2020-04-27,18,Australia
+ANZAC Day Observed,State Holiday,"Christmas Island, Cocos and Keeling Islands, WA",2020-04-27,18,Australia
+ANZAC Day Observed,State Holiday,"Christmas Island, Cocos and Keeling Islands, WA",2020-04-27,18,Western Australia
+ANZAC Day Additional Public Holiday,Common State holiday,ACT,2020-04-27,18,Australian Capital Territory
+Yom HaAtzmaut,Jewish holiday,All States,2020-04-29,18,Australia
+May Day,State Holiday,NT,2020-05-04,19,Northern Territory
+Labour Day,State Holiday,Queensland,2020-05-04,19,Queensland
+Mother's Day,Observance,All States,2020-05-10,19,Australia
+Lag B'Omer,Jewish holiday,All States,2020-05-12,20,Australia
+Laylatul Qadr (Night of Power),Muslim,All States,2020-05-19,21,Australia
+Ascension Day,Christian,All States,2020-05-21,21,Australia
+Eid ul Fitr,Muslim,All States,2020-05-24,21,Australia
+Hari Raya Puasa,State Holiday,"Christmas Island, Cocos and Keeling Islands",2020-05-24,21,Australia
+Hari Raya Puasa,State Holiday,"Christmas Island, Cocos and Keeling Islands",2020-05-24,21,Australia
+Day off for Hari Raya Puasa,State Holiday,"Christmas Island, Cocos and Keeling Islands",2020-05-25,22,Australia
+Day off for Hari Raya Puasa,State Holiday,"Christmas Island, Cocos and Keeling Islands",2020-05-25,22,Australia
+National Sorry Day,Observance,All States,2020-05-26,22,Australia
+Shavuot,Jewish holiday,All States,2020-05-29,22,Australia
+Pentecost,Christian,All States,2020-05-31,22,Australia
+Whit Monday,Christian,All States,2020-06-01,23,Australia
+Western Australia Day,Common State holiday,WA,2020-06-01,23,Western Australia
+Reconciliation Day,State Holiday,ACT,2020-06-01,23,Australian Capital Territory
+Queensland Day,Local observance,All States,2020-06-06,23,Australia
+Trinity Sunday,Christian,All States,2020-06-07,23,Australia
+Queen's Birthday,State Holiday,All States,2020-06-08,24,Australia
+Bounty Day,State Holiday,Norfolk Island,2020-06-08,24,Australia
+Corpus Christi,Christian,All States,2020-06-11,24,Australia
+Queen's Birthday,State Holiday,Norfolk Island,2020-06-15,25,Australia
+June Solstice,Season,All States,2020-06-21,25,Australia
+First Day of NAIDOC Week,Observance,All States,2020-07-05,27,Australia
+Tisha B'Av,Jewish holiday,All States,2020-07-30,31,Australia
+Hari Raya Haji,State Holiday,"Christmas Island, Cocos and Keeling Islands",2020-07-31,31,Australia
+Hari Raya Haji,State Holiday,"Christmas Island, Cocos and Keeling Islands",2020-07-31,31,Australia
+Eid ul Adha,Muslim,All States,2020-08-01,31,Australia
+New South Wales Bank Holiday,State Bank Holiday,NSW,2020-08-03,32,New South Wales
+Northern Territory Picnic Day,State Holiday,NT,2020-08-03,32,Northern Territory
+Royal National Agricultural Show Day Queensland,State Holiday,Queensland*,2020-08-14,33,Queensland
+Assumption of Mary,Christian,All States,2020-08-15,33,Australia
+Muharram/Islamic New Year,Muslim,All States,2020-08-20,34,Australia
+Father's Day,Observance,All States,2020-09-06,36,Australia
+Rosh Hashana,Jewish holiday,All States,2020-09-19,38,Australia
+September Equinox,Season,All States,2020-09-22,39,Australia
+Yom Kippur,Jewish holiday,All States,2020-09-28,40,Australia
+Queen's Birthday,Common State holiday,WA,2020-09-28,40,Western Australia
+First day of Sukkot,Jewish holiday,All States,2020-10-03,40,Australia
+Daylight Saving Time starts,Clock change/Daylight Saving Time,All States,2020-10-04,40,Australia
+Feast of St Francis of Assisi,Christian,All States,2020-10-04,40,Australia
+Territory Day,State Holiday,Christmas Island,2020-10-05,41,Australia
+Queen's Birthday,Common State holiday,Queensland,2020-10-05,41,Queensland
+Labour Day,State Holiday,"ACT, NSW, SA",2020-10-05,41,Australian Capital Territory
+Labour Day,State Holiday,"ACT, NSW, SA",2020-10-05,41,New South Wales
+Labour Day,State Holiday,"ACT, NSW, SA",2020-10-05,41,South Australia
+Hoshana Rabbah,Jewish holiday,All States,2020-10-09,41,Australia
+Shemini Atzeret,Jewish holiday,All States,2020-10-10,41,Australia
+Simchat Torah,Jewish holiday,All States,2020-10-11,41,Australia
+Norfolk Island Agricultural Show Day,State Holiday,Norfolk Island,2020-10-12,42,Australia
+Friday before the AFL Grand Final,State Holiday,Victoria,2020-10-23,43,Victoria
+Milad un Nabi (Mawlid),Muslim,All States,2020-10-29,44,Australia
+Hari Maulad Nabi,State Holiday,Cocos and Keeling Islands,2020-10-29,44,Australia
+Halloween,Observance,All States,2020-10-31,44,Australia
+All Saints' Day,Christian,All States,2020-11-01,44,Australia
+All Souls' Day,Christian,All States,2020-11-02,45,Australia
+Recreation Day,State Holiday,Tasmania*,2020-11-02,45,Australia
+Melbourne Cup Day,State Holiday,Victoria,2020-11-03,45,Victoria
+Remembrance Day,Observance,All States,2020-11-11,46,Australia
+Diwali/Deepavali,Observance,All States,2020-11-14,46,Australia
+Thanksgiving Day,State Holiday,Norfolk Island,2020-11-25,48,Australia
+First Sunday of Advent,Observance,All States,2020-11-29,48,Australia
+Feast of the Immaculate Conception,Christian,All States,2020-12-08,50,Australia
+First Day of Hanukkah,Jewish holiday,All States,2020-12-11,50,Australia
+Last day of Hanukkah,Jewish holiday,All States,2020-12-18,51,Australia
+December Solstice,Season,All States,2020-12-21,52,Australia
+Christmas Eve,Part Day Holiday,"NT, Qld, SA",2020-12-24,52,Northern Territory
+Christmas Eve,Part Day Holiday,"NT, Qld, SA",2020-12-24,52,Queensland
+Christmas Eve,Part Day Holiday,"NT, Qld, SA",2020-12-24,52,South Australia
+Christmas Eve,Observance,All States,2020-12-24,52,Australia
+Christmas Day,National Holiday,All States,2020-12-25,52,Australia
+Christmas Day,Restricted Trading Day,Victoria,2020-12-25,52,Victoria
+Boxing Day,National Holiday,All States,2020-12-26,52,Australia
+Boxing Day Observed,State Holiday,All States,2020-12-28,53,Australia
+Proclamation Day,State Holiday,SA,2020-12-28,53,South Australia
+New Year's Eve,Part Day Holiday,"NT, SA",2020-12-31,53,Northern Territory
+New Year's Eve,Part Day Holiday,"NT, SA",2020-12-31,53,South Australia
+New Year's Eve,Observance,All States,2020-12-31,53,Australia
+New Year's Day,National holiday,All States,2020-01-01,1,Germany
+Epiphany,"Christian, Common local holiday","BW, BY, ST",2020-01-06,2,Baden-Württemberg
+Epiphany,"Christian, Common local holiday","BW, BY, ST",2020-01-06,2,Bavaria
+Epiphany,"Christian, Common local holiday","BW, BY, ST",2020-01-06,2,Saxony-Anhalt
+Franco-German Day,Observance,All States,2020-01-22,4,Germany
+Remembrance Day for the Victims of National Socialism,Observance,All States,2020-01-27,5,Germany
+European Privacy Day,Observance,All States,2020-01-28,5,Germany
+Children's Hospice Day,Observance,All States,2020-02-10,7,Germany
+Valentine's Day,Observance,All States,2020-02-14,7,Germany
+Shrove Monday,"Observance, Christian",All States,2020-02-24,9,Germany
+Carnival / Shrove Tuesday,"Observance, Christian",All States,2020-02-25,9,Germany
+Carnival / Ash Wednesday,Silent Day,All States,2020-02-26,9,Germany
+International Women's Day,Observance,All States,2020-03-08,10,Germany
+International Women's Day,Common local holiday,Berlin,2020-03-08,10,Germany
+St. Patrick's Day,Observance,All States,2020-03-17,12,Germany
+March Equinox,Season,All States,2020-03-20,12,Germany
+Girls' Day - Career Information Day,Observance,All States,2020-03-26,13,Germany
+Daylight Saving Time starts,Clock change/Daylight Saving Time,All States,2020-03-29,13,Germany
+Palm Sunday,"Observance, Christian",All States,2020-04-05,14,Germany
+Maundy Thursday,Silent Day,All States,2020-04-09,15,Germany
+Good Friday,"Silent Day, public holiday",All States,2020-04-10,15,Germany
+Easter Sunday,Silent Day,All States,2020-04-12,15,Germany
+Easter Sunday,"Christian, Common local holiday",Brandenburg,2020-04-12,15,Germany
+Easter Monday,"National holiday, Christian",All States,2020-04-13,16,Germany
+German Beer Day,Observance,All States,2020-04-23,17,Germany
+Walpurgis Night,Observance,All States,2020-04-30,18,Germany
+May Day,National holiday,All States,2020-05-01,18,Germany
+German Food Bank Day,Observance,All States,2020-05-02,18,Germany
+Europe Day (Council of Europe),Observance,All States,2020-05-05,19,Germany
+Anniversary of the End of World War II,Common local holiday,Berlin,2020-05-08,19,Germany
+Anniversary of the End of World War II,Observance,All States,2020-05-08,19,Germany
+Europe Day (European Union),Observance,All States,2020-05-09,19,Germany
+Mother's Day,Observance,All States,2020-05-10,19,Germany
+Father's Day,Observance,All States,2020-05-21,21,Germany
+Ascension Day,"National holiday, Christian",All States,2020-05-21,21,Germany
+Constitution Day,Observance,All States,2020-05-23,21,Germany
+Whit Sunday,"Christian, Common local holiday",Brandenburg,2020-05-31,22,Germany
+Whit Sunday,"Observance, Christian",All States,2020-05-31,22,Germany
+Whit Monday,"National holiday, Christian",All States,2020-06-01,23,Germany
+International Childrens' Day,Observance,"B, BB, MVP, SN, ST, TH",2020-06-01,23,Germany
+International Childrens' Day,Observance,"B, BB, MVP, SN, ST, TH",2020-06-01,23,Brandenburg
+International Childrens' Day,Observance,"B, BB, MVP, SN, ST, TH",2020-06-01,23,Mecklenburg-Vorpommern
+International Childrens' Day,Observance,"B, BB, MVP, SN, ST, TH",2020-06-01,23,Saxony
+International Childrens' Day,Observance,"B, BB, MVP, SN, ST, TH",2020-06-01,23,Saxony-Anhalt
+International Childrens' Day,Observance,"B, BB, MVP, SN, ST, TH",2020-06-01,23,Thuringia
+European Bicycle Day,Observance,All States,2020-06-03,23,Germany
+Visually Impaired People Day,Observance,All States,2020-06-06,23,Germany
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,Baden-Württemberg
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,Bavaria
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,Hesse
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,North Rhine-Westphalia
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,Rhineland-Palatinate
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,Saarland
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,Saxony
+Corpus Christi,"Christian, Common local holiday","BW, BY, HE, NRW, RLP, SL, SN*, TH*",2020-06-11,24,Thuringia
+June Solstice,Season,All States,2020-06-20,25,Germany
+Car-free Sunday,Observance,All States,2020-06-21,25,Germany
+Architecture Day,Observance,All States,2020-06-27,26,Germany
+Peace Festival in Augsburg,Local holiday,Bavaria**,2020-08-08,32,Germany
+Assumption of Mary,"Christian, Common local holiday","Bavaria*, Saarland",2020-08-15,33,Germany
+Assumption of Mary,"Christian, Common local holiday","Bavaria*, Saarland",2020-08-15,33,Germany
+World Peace Day,Observance,All States,2020-09-01,36,Germany
+German Language Day,Observance,All States,2020-09-12,37,Germany
+European Heritage Days,Observance,All States,2020-09-13,37,Germany
+German World Children's Day,Observance,All States,2020-09-20,38,Germany
+German World Children's Day,Common local holiday,Thuringia,2020-09-20,38,Germany
+September Equinox,Season,All States,2020-09-22,39,Germany
+Day of German Unity,National holiday,All States,2020-10-03,40,Germany
+Harvest Festival,Observance,All States,2020-10-04,40,Germany
+Grandparents' Day,Observance,Bavaria,2020-10-11,41,Germany
+Day of the Libraries,Observance,All States,2020-10-24,43,Germany
+Daylight Saving Time ends,Clock change/Daylight Saving Time,All States,2020-10-25,43,Germany
+World Thrift Day,Observance,All States,2020-10-30,44,Germany
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Brandenburg
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Bremen
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Hamburg
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Mecklenburg-Vorpommern
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Lower Saxony
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Schleswig-Holstein
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Saxony
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Saxony-Anhalt
+Reformation Day,Common local holiday,"BB, HB, HH, MVP, NDS, SH, SN, ST, TH",2020-10-31,44,Thuringia
+Halloween,Observance,All States,2020-10-31,44,Germany
+All Saints' Day,"Silent Day, public holiday","BW, BY, NRW, RLP, SL",2020-11-01,44,Baden-Württemberg
+All Saints' Day,"Silent Day, public holiday","BW, BY, NRW, RLP, SL",2020-11-01,44,Bavaria
+All Saints' Day,"Silent Day, public holiday","BW, BY, NRW, RLP, SL",2020-11-01,44,North Rhine-Westphalia
+All Saints' Day,"Silent Day, public holiday","BW, BY, NRW, RLP, SL",2020-11-01,44,Rhineland-Palatinate
+All Saints' Day,"Silent Day, public holiday","BW, BY, NRW, RLP, SL",2020-11-01,44,Saarland
+Night of Broken Glass Remembrance Day,Observance,All States,2020-11-09,46,Germany
+Fall of the Berlin Wall,Observance,All States,2020-11-09,46,Germany
+St. Martin's Day,"Observance, Christian",All States,2020-11-11,46,Germany
+National Day of Mourning,Silent Day,All States,2020-11-15,46,Germany
+Repentance Day,"Christian, Common local holiday",Saxony,2020-11-18,47,Germany
+Sunday of the Dead,Silent Day,All States,2020-11-22,47,Germany
+First Advent Sunday,"Observance, Christian",All States,2020-11-29,48,Germany
+Second Advent Sunday,"Observance, Christian",All States,2020-12-06,49,Germany
+Saint Nicholas Day,"Observance, Christian",All States,2020-12-06,49,Germany
+Third Advent Sunday,"Observance, Christian",All States,2020-12-13,50,Germany
+Remembrance Day for Roma and Sinti killed by Genocide,Observance,All States,2020-12-19,51,Germany
+Fourth Advent Sunday,"Observance, Christian",All States,2020-12-20,51,Germany
+December Solstice,Season,All States,2020-12-21,52,Germany
+Christmas Eve,Silent Day,All States,2020-12-24,52,Germany
+Christmas Day,"National holiday, Christian",All States,2020-12-25,52,Germany
+Boxing Day,"National holiday, Christian",All States,2020-12-26,52,Germany
+New Year's Eve,Bank holiday,All States,2020-12-31,53,Germany
+New Year's Day,National holiday,All States,2020-01-01,1,Ireland
+St. Patrick's Day,National holiday,All States,2020-03-17,12,Ireland
+March Equinox,Season,All States,2020-03-20,12,Ireland
+Good Friday,Observance,All States,2020-04-10,15,Ireland
+Easter,Observance,All States,2020-04-12,15,Ireland
+Easter Monday,National holiday,All States,2020-04-13,16,Ireland
+May Day,National holiday,All States,2020-05-04,19,Ireland
+June Bank Holiday,National holiday,All States,2020-06-01,23,Ireland
+June Solstice,Season,All States,2020-06-20,25,Ireland
+August Bank Holiday,National holiday,All States,2020-08-03,32,Ireland
+September Equinox,Season,All States,2020-09-22,39,Ireland
+October Bank Holiday,National holiday,All States,2020-10-26,44,Ireland
+December Solstice,Season,All States,2020-12-21,52,Ireland
+Christmas Eve,Observance,All States,2020-12-24,52,Ireland
+Christmas Day,National holiday,All States,2020-12-25,52,Ireland
+St. Stephen's Day,National holiday,All States,2020-12-26,52,Ireland
+New Year's Eve,Observance,All States,2020-12-31,53,Ireland
+New Year's Day,Bank holiday,All States,2020-01-01,1,United Kingdom
+2nd January,Local Bank Holiday,Scotland,2020-01-02,1,United Kingdom
+Epiphany,Christian,All States,2020-01-06,2,United Kingdom
+Orthodox Christmas Day,Orthodox,All States,2020-01-07,2,United Kingdom
+Orthodox New Year,Orthodox,All States,2020-01-14,3,United Kingdom
+Burns Night,Local observance,Scotland,2020-01-25,4,United Kingdom
+Chinese New Year,Observance,All States,2020-01-25,4,United Kingdom
+Tu B'Shevat (Arbor Day),Jewish holiday,All States,2020-02-10,7,United Kingdom
+Valentine's Day,Observance,All States,2020-02-14,7,United Kingdom
+Maha Shivaratri,Hindu Holiday,All States,2020-02-21,8,United Kingdom
+Carnival / Shrove Tuesday,Christian,All States,2020-02-25,9,United Kingdom
+Carnival / Ash Wednesday,Christian,All States,2020-02-26,9,United Kingdom
+St. David's Day,Observance,Wales,2020-03-01,9,United Kingdom
+Holi,Hindu Holiday,All States,2020-03-09,11,United Kingdom
+Purim,Jewish holiday,All States,2020-03-10,11,United Kingdom
+St Patrick's Day,Local Bank Holiday,NIR,2020-03-17,12,Northern Ireland
+March Equinox,Season,All States,2020-03-20,12,United Kingdom
+Isra and Mi'raj,Muslim,All States,2020-03-22,12,United Kingdom
+Mothering Sunday,Observance,All States,2020-03-22,12,United Kingdom
+Daylight Saving Time starts,Clock change/Daylight Saving Time,All States,2020-03-29,13,United Kingdom
+Palm Sunday,Christian,All States,2020-04-05,14,United Kingdom
+Maundy Thursday,Christian,All States,2020-04-09,15,United Kingdom
+First day of Passover,Jewish holiday,All States,2020-04-09,15,United Kingdom
+Good Friday,Bank holiday,All States,2020-04-10,15,United Kingdom
+Holy Saturday,Christian,All States,2020-04-11,15,United Kingdom
+Easter Sunday,"Observance, Christian",All States,2020-04-12,15,United Kingdom
+Easter Monday,Common local holiday,"ENG, NIR, WAL",2020-04-13,16,United Kingdom
+Easter Monday,Common local holiday,"ENG, NIR, WAL",2020-04-13,16,Northern Ireland
+Easter Monday,Common local holiday,"ENG, NIR, WAL",2020-04-13,16,Wales
+Easter Monday,Observance,Scotland,2020-04-13,16,United Kingdom
+Last day of Passover,Jewish holiday,All States,2020-04-16,16,United Kingdom
+Orthodox Good Friday,Orthodox,All States,2020-04-17,16,United Kingdom
+Orthodox Holy Saturday,Orthodox,All States,2020-04-18,16,United Kingdom
+Orthodox Easter,Orthodox,All States,2020-04-19,16,United Kingdom
+Orthodox Easter Monday,Orthodox,All States,2020-04-20,17,United Kingdom
+Yom HaShoah,Jewish commemoration,All States,2020-04-21,17,United Kingdom
+Stephen Lawrence Day,Observance,All States,2020-04-22,17,United Kingdom
+Ramadan Start,Muslim,All States,2020-04-23,17,United Kingdom
+St. George's Day,Observance,All States,2020-04-23,17,United Kingdom
+Shakespeare Day,Observance,All States,2020-04-23,17,United Kingdom
+Yom HaAtzmaut,Jewish holiday,All States,2020-04-29,18,United Kingdom
+Early May Bank Holiday / VE Day,Bank holiday,All States,2020-05-08,19,United Kingdom
+Lag B'Omer,Jewish holiday,All States,2020-05-12,20,United Kingdom
+Laylatul Qadr (Night of Power),Muslim,All States,2020-05-19,21,United Kingdom
+Ascension Day,Christian,All States,2020-05-21,21,United Kingdom
+Eid ul Fitr,Muslim,All States,2020-05-24,21,United Kingdom
+Spring Bank Holiday,Bank holiday,All States,2020-05-25,22,United Kingdom
+Shavuot,Jewish holiday,All States,2020-05-29,22,United Kingdom
+Pentecost,Christian,All States,2020-05-31,22,United Kingdom
+Whit Monday,Christian,All States,2020-06-01,23,United Kingdom
+Trinity Sunday,Christian,All States,2020-06-07,23,United Kingdom
+Corpus Christi,Christian,All States,2020-06-11,24,United Kingdom
+Queen's Birthday,Observance,All States,2020-06-13,24,United Kingdom
+June Solstice,Season,All States,2020-06-20,25,United Kingdom
+Father's Day,Observance,All States,2020-06-21,25,United Kingdom
+Windrush Day,Observance,All States,2020-06-22,26,United Kingdom
+Battle of the Boyne,Local Bank Holiday,NIR,2020-07-12,28,Northern Ireland
+Battle of the Boyne observed,Local Bank Holiday,NIR,2020-07-13,29,Northern Ireland
+Tisha B'Av,Jewish holiday,All States,2020-07-30,31,United Kingdom
+Eid ul Adha,Muslim,All States,2020-07-31,31,United Kingdom
+Raksha Bandhan,Hindu Holiday,All States,2020-08-03,32,United Kingdom
+Summer Bank Holiday,Common local holiday,Scotland,2020-08-03,32,United Kingdom
+Janmashtami,Hindu Holiday,All States,2020-08-12,33,United Kingdom
+Assumption of Mary,Christian,All States,2020-08-15,33,United Kingdom
+Muharram/Islamic New Year,Muslim,All States,2020-08-20,34,United Kingdom
+Ganesh Chaturthi,Hindu Holiday,All States,2020-08-22,34,United Kingdom
+Ashura,Muslim,All States,2020-08-30,35,United Kingdom
+Summer Bank Holiday,Common local holiday,"ENG, NIR, WAL",2020-08-31,36,United Kingdom
+Summer Bank Holiday,Common local holiday,"ENG, NIR, WAL",2020-08-31,36,Northern Ireland
+Summer Bank Holiday,Common local holiday,"ENG, NIR, WAL",2020-08-31,36,Wales
+Rosh Hashana,Jewish holiday,All States,2020-09-19,38,United Kingdom
+September Equinox,Season,All States,2020-09-22,39,United Kingdom
+Yom Kippur,Jewish holiday,All States,2020-09-28,40,United Kingdom
+First day of Sukkot,Jewish holiday,All States,2020-10-03,40,United Kingdom
+Feast of St Francis of Assisi,Christian,All States,2020-10-04,40,United Kingdom
+Hoshana Rabbah,Jewish holiday,All States,2020-10-09,41,United Kingdom
+Shemini Atzeret,Jewish holiday,All States,2020-10-10,41,United Kingdom
+Simchat Torah,Jewish holiday,All States,2020-10-11,41,United Kingdom
+Navaratri,Hindu Holiday,All States,2020-10-17,42,United Kingdom
+Dussehra,Hindu Holiday,All States,2020-10-25,43,United Kingdom
+Daylight Saving Time ends,Clock change/Daylight Saving Time,All States,2020-10-25,43,United Kingdom
+Milad un Nabi (Mawlid),Muslim,All States,2020-10-29,44,United Kingdom
+Halloween,Observance,All States,2020-10-31,44,United Kingdom
+All Saints' Day,Christian,All States,2020-11-01,44,United Kingdom
+All Souls' Day,Christian,All States,2020-11-02,45,United Kingdom
+Guy Fawkes Day,Observance,All States,2020-11-05,45,United Kingdom
+Remembrance Sunday,Observance,All States,2020-11-08,45,United Kingdom
+Diwali/Deepavali,Hindu Holiday,All States,2020-11-14,46,United Kingdom
+First Sunday of Advent,Observance,All States,2020-11-29,48,United Kingdom
+St Andrew's Day,Local Bank Holiday,Scotland,2020-11-30,49,United Kingdom
+Feast of the Immaculate Conception,Christian,All States,2020-12-08,50,United Kingdom
+First Day of Hanukkah,Jewish holiday,All States,2020-12-11,50,United Kingdom
+Last day of Hanukkah,Jewish holiday,All States,2020-12-18,51,United Kingdom
+December Solstice,Season,All States,2020-12-21,52,United Kingdom
+Christmas Eve,Observance,All States,2020-12-24,52,United Kingdom
+Christmas Day,Bank holiday,All States,2020-12-25,52,United Kingdom
+Boxing Day,Bank holiday,All States,2020-12-26,52,United Kingdom
+Substitute Bank Holiday for Boxing Day,Bank holiday,All States,2020-12-28,53,United Kingdom
+New Year's Eve,Observance,All States,2020-12-31,53,United Kingdom
+New Year's Day,National holiday,All States,2020-01-01,1,Mexico
+Day of the Holy Kings,Observance,All States,2020-01-06,2,Mexico
+Candlemas,Observance,All States,2020-02-02,5,Mexico
+Day off for Constitution Day,National holiday,All States,2020-02-03,6,Mexico
+Constitution Day,National holiday,All States,2020-02-05,6,Mexico
+Valentine's Day,Observance,All States,2020-02-14,7,Mexico
+Flag Day,Observance,All States,2020-02-24,9,Mexico
+Ash Wednesday,"Observance, Christian",All States,2020-02-26,9,Mexico
+Day off for Benito Juárez's Birthday Memorial,National holiday,All States,2020-03-16,12,Mexico
+Oil Expropriation Day,Observance,All States,2020-03-18,12,Mexico
+March Equinox,Season,All States,2020-03-19,12,Mexico
+Benito Juárez's Birthday Memorial,National holiday,All States,2020-03-21,12,Mexico
+Palm Sunday,"Observance, Christian",All States,2020-04-05,14,Mexico
+Maundy Thursday,Bank holiday,All States,2020-04-09,15,Mexico
+Good Friday,Bank holiday,All States,2020-04-10,15,Mexico
+Holy Saturday,Observance,All States,2020-04-11,15,Mexico
+Easter Sunday,"Observance, Christian",All States,2020-04-12,15,Mexico
+Children's Day,Observance,All States,2020-04-30,18,Mexico
+Labor Day / May Day,National holiday,All States,2020-05-01,18,Mexico
+Battle of Puebla (Cinco de Mayo),Common local holiday,All States,2020-05-05,19,Mexico
+Mother's Day,Observance,All States,2020-05-10,19,Mexico
+Teacher's Day,Observance,All States,2020-05-15,20,Mexico
+Ascension Day,Observance,All States,2020-05-21,21,Mexico
+Whit Sunday,Observance,All States,2020-05-31,22,Mexico
+Corpus Christi,Observance,All States,2020-06-11,24,Mexico
+June Solstice,Season,All States,2020-06-20,25,Mexico
+Father's Day,Observance,All States,2020-06-21,25,Mexico
+Assumption of Mary,Observance,All States,2020-08-15,33,Mexico
+Shout of Dolores,Observance,All States,2020-09-15,38,Mexico
+Independence Day,National holiday,All States,2020-09-16,38,Mexico
+September Equinox,Season,All States,2020-09-22,39,Mexico
+Columbus Day,Observance,All States,2020-10-12,42,Mexico
+Halloween,Observance,All States,2020-10-31,44,Mexico
+All Saints' Day,Observance,All States,2020-11-01,44,Mexico
+All Souls' Day,Observance,All States,2020-11-02,45,Mexico
+Day off for Revolution Day Memorial,National holiday,All States,2020-11-16,47,Mexico
+Revolution Day Memorial,National holiday,All States,2020-11-20,47,Mexico
+Christ the King Day,Observance,All States,2020-11-22,47,Mexico
+Feast of the Immaculate Conception,Observance,All States,2020-12-08,50,Mexico
+Day of the Virgin of Guadalupe,Bank holiday,All States,2020-12-12,50,Mexico
+December Solstice,Season,All States,2020-12-21,52,Mexico
+Christmas Eve,"Observance, Christian",All States,2020-12-24,52,Mexico
+Christmas Day,"National holiday, Christian",All States,2020-12-25,52,Mexico
+Day of the Holy Innocents,Observance,All States,2020-12-28,53,Mexico
+New Year's Eve,Observance,All States,2020-12-31,53,Mexico
