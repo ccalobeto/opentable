@@ -1,3 +1,4 @@
+# Programmed by Carlos león
 # Preliminaries
 #-------------------------------------------------
 rm(list = ls())
